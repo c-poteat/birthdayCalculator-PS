@@ -1,6 +1,6 @@
 ## birthdayCalculator-PS
 
-[Source Code](https://github.com/c-poteat/birthdayCalculator-PS/blob/main/birthdayCalculator.ps1)
+[Source Code](https://github.com/c-poteat/birthdayCalculator-PS/blob/main/whatsYourBirthday/whatsYourBirthday.ps1)
 
 Sample Image
 
